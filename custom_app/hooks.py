@@ -5,15 +5,11 @@ app_description = "Custom changes"
 app_email = "krishpatel8071@gmail.com"
 app_license = "mit"
 
-<<<<<<< HEAD
-=======
 doc_events = {
     "User": {
         "on_login": "custom_app.api.set_default_company"
     }
 }
-
->>>>>>> develop
 # Apps
 # ------------------
 
